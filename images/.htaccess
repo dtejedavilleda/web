@@ -1,0 +1,4 @@
+<Directory /var/www/html/images/>
+   order deny,allow
+   deny from all
+</Directory>
