@@ -1,4 +1,0 @@
-AuthName "Introduce credenciales"
-AuthType Basic
-AuthUserFile /var/www/html/subcarpeta/.htpasswd
-require valid-user
